@@ -7,3 +7,5 @@ def average(x):
         return ret
     else:
         return 0
+
+print(average([5, 1, 1, 1, 2]))

@@ -3,3 +3,4 @@ def volume(x):
         return (x * x * x)
     else:
         return False
+print(volume(5))
